@@ -1,4 +1,4 @@
-# QuantumPINN Lab v0.2.0 — Parameter-Conditioned Quantum Design
+# QuantumPINN Lab — Parameter-Conditioned Quantum Design
 
 An educational/research software project that combines physics-informed neural networks (PINNs), numerical quantum mechanics, time-dependent wavepacket propagation and quantum-computing Hamiltonian mapping. **v0.2.0 preserves the v0.1.0 solver and adds parameter-conditioned surrogate learning plus inverse design.**
 
