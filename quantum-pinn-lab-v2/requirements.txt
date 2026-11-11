@@ -1,0 +1,5 @@
+numpy>=2.5.4,<3
+scipy>=1.18.1,<2
+matplotlib>=3.11.2,<4
+torch>=2.15.0,<3
+streamlit>=1.67.0,<2
